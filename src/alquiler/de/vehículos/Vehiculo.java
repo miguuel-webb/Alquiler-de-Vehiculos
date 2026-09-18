@@ -2,7 +2,6 @@ package alquiler.de.vehículos;
 
 public abstract class Vehiculo {
 
-    // Atributos privados: Encapsulamiento
     private String marca;
     private String modelo;
     private double tarifaBase;
